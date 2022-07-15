@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back-end development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhay2002r](https://github.com/Abhay2002r)
+- 👨‍💻 All of my projects are available at [https://github.com/Yuji-Itadorii](https://github.com/Abhay2002r)
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
