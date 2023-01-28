@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Rawat</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
--visit my portfolio website [Link](https://abhay-rawat.onrender.com/)
-
 - 🌱 I’m currently learning **back-end development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuji-Itadorii](https://github.com/Abhay2002r)
